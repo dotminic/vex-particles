@@ -1,5 +1,5 @@
 # VEX particles
-A simple particle system written in VEX. This sample uses some fBM code by [Inigo Quilez](https://www.iquilezles.org/www/articles/warp/warp.htm).
+This is an example for a simple particle system written in VEX. This sample uses some fBM code by [Inigo Quilez](https://www.iquilezles.org/www/articles/warp/warp.htm) as well as an additive particle shading technique by [Simon Fiedler](https://simonfiedler.de/) featured on [Entagma](https://entagma.com/).
 
 ## Initialize the particles
 
